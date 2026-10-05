@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Zhu Heng</h1>
-<h3 align="center">⚡ Electrical Engineering Student | Full-Stack Developer | AI & ML Builder</h3>
+<h3 align="center">⚡ Electrical Engineering Student | Firmware Engineer | AI & ML Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=00B4D8&center=true&vCenter=true&width=520&lines=From+Circuit+Boards+to+Dashboards;Full-Stack+%2B+Machine+Learning;Building+Intelligent+Systems+That+Solve" alt="Typing SVG" />
@@ -9,6 +9,7 @@
 
 ### 🧠 About Me
 - 🎓 **B.Eng. Electrical Engineering (Year 3)** at **University of Malaya**
+- 🛠️ **Firmware Engineer Intern** at **Western Digital**
 - 💻 I build at the intersection of **AI/ML, full-stack development, and hardware** — from fraud detection engines to IoT dashboards
 - ✅ **Delivered** a mature Agentic RAG system for Clinical Practice Guidelines (CPG)
 - 🔭 **Currently Working On:** making something great
