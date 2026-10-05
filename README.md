@@ -10,8 +10,8 @@
 ### 🧠 About Me
 - 🎓 **B.Eng. Electrical Engineering (Year 3)** at **University of Malaya**
 - 💻 I build at the intersection of **AI/ML, full-stack development, and hardware** — from fraud detection engines to IoT dashboards
-- 🏆 **Champion** at V Hack 2026 · **Champion** at Finverse Hackathon · **2nd Runner-Up** at NexG Godamlah 2.0 · **Silver Award** at MJIC 2026
-- 🔭 **Currently Working On:** Agentic RAG system for clinical practice guidelines (CPG)
+- ✅ **Delivered** a mature Agentic RAG system for Clinical Practice Guidelines (CPG)
+- 🔭 **Currently Working On:** making something great
 
 ---
 
